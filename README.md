@@ -8,13 +8,20 @@ This educational technology plan is being prepared by Mr. Ward for the administr
 #### AP Computer Science Principles
 The AP Computer Science Principles course introduces students to the field of computer science. This course is the equivalent to a first-semester, college-level course in computer science. In this course, we will focus on five big ideas: creative development, data, algorithms and programming, computer systems and networks, and the impact of computing.
 
-This course is open to sophomores to seniors and prepares students to take the *AP Computer Science Principles* exam.
+This course is open to students in grades 10-12 and prepares students to take the *AP Computer Science Principles* exam.
 
 Prerequisites:
 - Completed Integrated Math 1 with a C- or better both semesters
 - Completed CS Discoveries with a C- or better both semesters
 
 ### Situation
+Gustine is a rural, agrarian community about 29 miles west of the county seat of Merced. The 2010 census indicated that the City of Gustine has 5,500 residents. Gustine High School, opened in 1913, serves about 600 students and is the sole comprehensive high school within Gustine Unified School District. 82.16% of the students are Hispanic, and many are the children of recent immigrants who are attending a school in the United States for the first time while learning a new language. Currently, 18.1% of the Gustine High School students are English-language learners.
+
+Three years ago the school district went 1:1 with Chromebooks and Mr. Ward began teaching a Computer Concepts & Applications course to provide students a greater understanding of what and how they could use their Chromebook and the Google Suite.
+
+With the pandemic, there were investments in infrasturcture as the district went to distance learning in March, 2019 and remained that way until January 2020 when reopening hybrid. The district returned to traditional instruction for the 2021-2022 school year with students.
+
+---
 
 Provide relevant details about your course and/or school that will influence the
 decisions in the plan. What assets and constraints do you face? What is the
