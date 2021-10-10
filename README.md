@@ -1,13 +1,18 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5750946&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
-
-Provide a brief description of the purpose of your educational technology Plan
+This educational technology plan is being prepared by Mr. Ward for the administration of Gustine High School explain the desired new Computer Science class sought to be offered to students. This is to guide the purchase and implementation of hardware and software for AP Computer Science Principles.
 
 ## Context
 
 ### Course
+#### AP Computer Science Principles
+The AP Computer Science Principles course introduces students to the field of computer science. This course is the equivalent to a first-semester, college-level course in computer science. In this course, we will focus on five big ideas: creative development, data, algorithms and programming, computer systems and networks, and the impact of computing.
 
-Describe your course including the name, description, and grade level
+This course is open to sophomores to seniors and prepares students to take the *AP Computer Science Principles* exam.
+
+Prerequisites:
+- Completed Integrated Math 1 with a C- or better both semesters
+- Completed CS Discoveries with a C- or better both semesters
 
 ### Situation
 
