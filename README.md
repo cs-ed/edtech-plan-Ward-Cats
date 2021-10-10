@@ -15,7 +15,7 @@ Prerequisites:
 - Completed CS Discoveries with a C- or better both semesters
 
 ### Situation
-Gustine is a rural, agrarian community about 29 miles west of the county seat of Merced. The 2010 census indicated that the City of Gustine has 5,500 residents. Gustine High School, opened in 1913, serves about 600 students and is the sole comprehensive high school within Gustine Unified School District. 82.16% of the students are Hispanic, and many are the children of recent immigrants who are attending a school in the United States for the first time while learning a new language. Currently, 18.1% of the Gustine High School students are English-language learners.
+Gustine is a rural, agrarian community about 29 miles west of the county seat of Merced. The 2010 census indicated that the City of Gustine has 5,500 residents. Gustine High School, opened in 1913, serves about 600 students and is the sole comprehensive high school within Gustine Unified School District. 82.16% of the students are Hispanic, and many are the children of recent immigrants who are attending a school in the United States for the first time while learning a new language. 18.1% of the Gustine High School students are English-language learners.
 
 Three years ago the school district went 1:1 with Chromebooks and Mr. Ward began teaching a Computer Concepts & Applications course to provide students a greater understanding of what and how they could use their Chromebook and the Google Suite.
 
