@@ -19,7 +19,7 @@ Gustine is a rural, agrarian community about 29 miles west of the county seat of
 
 Three years ago the school district went 1:1 with Chromebooks and Mr. Ward began teaching a Computer Concepts & Applications course to provide students a greater understanding of what and how they could use their Chromebook and the Google Suite.
 
-With the pandemic, there were investments in infrasturcture as the district went to distance learning in March, 2019 and remained that way until January 2020 when reopening hybrid. The district returned to traditional instruction for the 2021-2022 school year with students.
+With the pandemic, there were investments in infrasturcture as the district went to distance learning in March, 2019, and remained that way until January, 2020, when reopening in a hybrid format. The district returned to traditional instruction for the 2021-2022 school year with students on campus.
 
 ---
 
