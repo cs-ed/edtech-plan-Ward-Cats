@@ -82,9 +82,9 @@ Computer Science benefits society. As educators, we can help position our studen
 Like Data Science with the data science process, Computer Science is also a different approach to math. Math is not just about solving for a variable or calculating the solution, though those things are part of traditional math courses. Instead, I have explained to students that math is the foundation of the universe; that math is all around us. To be able to think, reason, and problem-solve is imperative.  With the "Why do I have to earn this?" questions, I admit that while they may not have to solve a system of equations in life, but being able to think, reason, and come to a conclusion--a solution-- and then be able to communicate their process in a way that others can follow and understand, *that* is the benefit and purpose for math. I would say Computer Science is a different approach for the same end goal. Students who take the course may not all be targeting Computer Science majors. That is okay; it can still be a worthwhile and beneficial endeavor. This Computer Science Principles course is another approach to students developing their reasoning, thinking, and communication skills. These are invaluable skills that they need to master for Gustine High to claim we have done our duty in positioning our students for both college and career readiness.
 
 #### References
-https://secure-media.collegeboard.org/apc/ap-computer-science-principles-brochure-teachers-administrators.pdf
-https://www.rasmussen.edu/degrees/technology/blog/ways-computer-science-benefits-society/
-https://www.piday.org/10-reasons-why-math-is-important-in-life/
-https://codeorg.medium.com/cs-helps-students-outperform-in-school-college-and-workplace-66dd64a69536
-https://lumberjaph.net/6-reasons-computer-science-science/
-https://compscicentral.com/why-is-computer-science-important/
+- [AP Computer Science Principles - Bring AP CSP To Your School](https://secure-media.collegeboard.org/apc/ap-computer-science-principles-brochure-teachers-administrators.pdf)
+- [Rasmussen University: 8 Suprising Ways Computer Science Benefits Society](https://www.rasmussen.edu/degrees/technology/blog/ways-computer-science-benefits-society/)
+- [piday: Why is Math Important in Life?](https://www.piday.org/10-reasons-why-math-is-important-in-life/)
+- [Code.org: CS helps students outperform in school, college, and workplace](https://codeorg.medium.com/cs-helps-students-outperform-in-school-college-and-workplace-66dd64a69536)
+- [Lumberjaph: 6 Reasons Why Computer Science Is A Science](https://lumberjaph.net/6-reasons-computer-science-science/)
+- [Comp Sci Central: Why Is Computer Science Important?](https://compscicentral.com/why-is-computer-science-important/)
