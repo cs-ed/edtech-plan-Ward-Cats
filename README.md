@@ -17,14 +17,14 @@ Prerequisites:
 ### Situation
 Gustine is a rural, agrarian community about 29 miles west of the county seat of Merced. The 2010 census indicated that the City of Gustine has 5,500 residents. Gustine High School, opened in 1913, serves about 600 students and is the sole comprehensive high school within Gustine Unified School District. 82.16% of the students are Hispanic, and many are the children of recent immigrants who are attending a school in the United States for the first time while learning a new language. 18.1% of the Gustine High School students are English-language learners.
 
-Three years ago the school district went 1:1 with Chromebooks and Mr. Ward introduced a Computer Concepts & Applications course to provide students a greater understanding of what and how they could use their Chromebook and the Google Suite.
+Three years ago the school district went 1:1 with Chromebooks and Mr. Ward introduced a Computer Concepts & Applications / Business Applications course to provide students a greater understanding of what and how they could use their Chromebook and the Google Suite.
 
 With the pandemic, there were investments in infrastructure (technology upgrades for staff, purchasing more software licenses) as the district went to distance learning in March, 2019, and remained that way until January, 2020, when reopening in a hybrid format. The district returned to traditional instruction for the 2021-2022 school year with students on campus.
 
 Considerations:
 - The school bell schedule is changed frequently. This year we are now on a traditional schedule of 45 minute class periods and a built-in 30 minute support period. 
 - The district has contracted with a third-party company to provide technical support and deal with the IT of the district.
-- Many students experience slow or limited Wi-Fi access at home; and students are more comfortable to be on their smart phone than Chromebook.
+- Many students experience slow or limited Wi-Fi access at home; and students are more comfortable on their smart phone than Chromebook.
 
 ## Plan
 
@@ -72,9 +72,15 @@ In class, students would typically be seated in groups of four and be able to in
 
 In terms of homework, the plan would not be to give much; in the hopes that the time we have in class is enough to complete the content, as students have inconsistent and differing Internet connections outside of school. Even then, the school Internet does occasionally go down, and therefore there will be "unplugged" computation and activities also ready and utilized. Outside of class may warrant students attending office hours after school if they do need additional time for Internet access. There may be times when students do need to work on "unplugged" activities outside of class, or do brainstorming in preparation for a future class session.
 
-Assessments will aim to do two things: (1) assess student comprehension and learning; also (2) prepare students for the AP exam. Consequently, assessments will be mindful of the end-of-course exam experience as laid out on [collegeboard](https://apcentral.collegeboard.org/courses/ap-computer-science-principles?course=ap-computer-science-principles) with multiple-choice (single- and multiple-select) questions, and some questions related to reading passage about computing.
-
+Assessments will serve two purposes: (1) assess student comprehension and learning; also (2) prepare students for the AP exam. Consequently, assessments will be mindful of the end-of-course exam experience as laid out on [collegeboard](https://apcentral.collegeboard.org/courses/ap-computer-science-principles?course=ap-computer-science-principles) with multiple-choice (single- and multiple-select) questions, and some questions related to reading passage about computing.
 
 ### Impacts
 
 How will the technology help *all* students learn? In this section, you can also describe how you address class resiliency, such as adapting to transitions to virtual education, social/legal/ethical challenges, and/or evolving course contexts.
+
+AP Computer Science Principles continues down that path that Gustine has been forging. Originally students were provided Chromebooks. That is a good start, but a tool is only as useful as the user's knowledge of it. With the Computer Concepts / Business Applications course, students are learning about the great resource their Chromebook is, and what the different applications in the Google Suite allow them to do. For the 2021-2022 school year, in partnership with Stanford University's YouCubed, Gustine implemented a Data Science course. Computer Science Principles, like Data Science, helps students build their creative problem solvingskills and how to apply computational processes to analyze large datasets. Meanwhile, it takes the knowledge students learned in Business Applications--about working on a Chromebook--and goes further in presenting more about global impacts of computing, Internet structures, and cybersecurity issues. Together, these three courses, while different, are all moving in tandem, in the same direction, in working to help students utilize technology that can have a practical impact and learn skills relevant across multiple disciplines and industries.
+
+
+
+#### References
+https://secure-media.collegeboard.org/apc/ap-computer-science-principles-brochure-teachers-administrators.pdf
