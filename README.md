@@ -32,6 +32,7 @@ Considerations:
 - Scratch.mit.edu
 - Code.org
 - EdPuzzle.com
+- Screencastify (to create supplemental, support videos)
 - Aeries Student Information System (attendance and gradebook)
 - GoGuardian (student monitoring software for staff)
 - Microsoft Office (only for the instructor)
